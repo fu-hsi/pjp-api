@@ -21,16 +21,16 @@ http://api.gios.gov.pl/pjp-api/rest/station/findAll
 ```
 [{
     "id": 14,
-    "stationName": "Dzia³oszyn",
+    "stationName": "DziaÅ‚oszyn",
     "gegrLat": "50.972167",
     "gegrLon": "14.941319",
     "city": {
         "id": 192,
-        "name": "Dzia³oszyn",
+        "name": "DziaÅ‚oszyn",
         "commune": {
             "communeName": "Bogatynia",
             "districtName": "zgorzelecki",
-            "provinceName": "DOLNOŒL¥SKIE"
+            "provinceName": "DOLNOÅšLÄ„SKIE"
         }
     },
     "addressStreet": null
@@ -51,7 +51,7 @@ http://api.gios.gov.pl/pjp-api/rest/station/sensors/14
     "id": 92,
     "stationId": 14,
     "param": {
-        "paramName": "py³ zawieszony PM10",
+        "paramName": "pyÅ‚ zawieszony PM10",
         "paramFormula": "PM10",
         "paramCode": "PM10",
         "idParam": 3
